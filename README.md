@@ -45,5 +45,3 @@ A identidade visual foi pensada para transmitir modernidade e foco, utilizando u
 ## 🧑‍💻 Autor
 
 Criado por **Wedson Gabriel**.
-
-Unindo a bagagem de mais de 7 anos no design e edição visual com a lógica e estruturação do desenvolvimento web.
